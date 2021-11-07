@@ -1,0 +1,27 @@
+Factorial of a number
+Area of a circle
+Leap year or not
+GCD of two number
+Check whether a given number is a prime number or not
+Print all prime numbers in a given range
+Check whether a given number is a Strong number or not
+Chcek whether a number is a Palindrome or not
+Check whether a string is a Palindrome or not
+Check whether a given number is an Armstrong number or not
+Print all Armstrong numbers between two intervals
+Fibonacci series generation upto N terms
+Binary to decimal conversion
+Decimal to binary conversion
+Decimal to octal conversion
+Octal to decimal conversion
+Binary to octal conversion
+Octal to binary conversion
+Sum of all prime numbers within a range
+Reversing a given number
+Reverse a string
+Pyramid pattern using stars
+Pyramid pattern using numbers
+Diamond pattern printing using stars
+Diamond pattern printing using numbers
+Second smallest element in an array
+Remove duplicate elements in an array
